@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: "MARBLER: An Open Platform for Standarized Evaluation of Multi-Robot Reinforcement Learning Algorithms"
+description: Realistic Benchmarks for Collaborative Heterogeneous Multi-Robot Systems
+
+github:
+  is_project_page: false

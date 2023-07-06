@@ -1,4 +1,4 @@
-# MARBLER: An Open Platform for Standarized Evaluation of Multi-Robot Reinforcement Learning Algorithms 
+<!-- # MARBLER: An Open Platform for Standarized Evaluation of Multi-Robot Reinforcement Learning Algorithms  -->
 
 [Reza J. Torbati](https://github.com/RezaTorbati), 
 [Shubham Lohiya](https://shubhlohiya.github.io/),
@@ -8,7 +8,7 @@
 
 [📄 Paper](assets/paper.pdf)   [💻Code](https://github.com/ShashwatNigam99/MARBLER)   [📁Supplementary Material](assets/supplementary.pdf)
 
-## Abstract 
+## About 
 
 Recent years have seen rapid improvements in Multi-Robot Reinforcement Learning (MRRL). However, many of these novel algorithms have limited real world testing. Although there are several environments for evaluating MRRL algorithms, few of them offer dynamics similar to what real robots experience, and fewer can also test Sim2Real performance. To address these issues, we introduce MARBLER: **M**ulti-**A**gent **R**L **B**enchmark and **L**earning **E**nvironment for the **R**obotarium. MARBLER is a platform built using the Robotarium's simulator that allows for rapid prototyping of new MRRL experiments.
 
