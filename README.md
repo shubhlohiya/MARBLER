@@ -6,7 +6,7 @@
 [Meher S. Nigam](https://github.com/ShashwatNigam99),
 [Harish Ravichandar](https://harishravichandar.com/)
 
-[📄 Paper](assets/paper.pdf)   [💻Code](https://github.com/ShashwatNigam99/MARBLER)   [📁Supplementary Material](assets/supplementary.pdf)
+[📄 Paper](assets/paper.pdf) &nbsp;&nbsp;&nbsp; [💻 Code](https://github.com/ShashwatNigam99/MARBLER) &nbsp;&nbsp;&nbsp; [📁 Supplementary Material](assets/supplementary.pdf)
 
 ## About 
 
@@ -31,6 +31,9 @@ MARBLER comprises several components that form the foundation of the platform:
 ![res.png](assets/res.png)
 
 We evaluated MAPPO, QMIX, VDN, and QMIX_NS in 4 scenarios using MARBLER. Overall, VDN achieved the best performance across scenarios with QMIX also performing well. The performance of QMIX vs QMIX_NS depended on the heterogeneity of the environment. There were few differences between simulation and real-world performance, highlighting MARBLER's realistic dynamics.
+<br><br>
+
+The videos of the test runs on the Robotarium test-bed can be viewed [here](https://docs.google.com/spreadsheets/d/11ik1Mev0VpYFrSt2TKxVTGL1W3BIvH7rda5MYRXWxxI/edit?usp=sharing).
 
 ## [Demo](https://www.youtube.com/embed/[placeholder])
 
