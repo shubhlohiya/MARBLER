@@ -28,12 +28,29 @@ MARBLER comprises several components that form the foundation of the platform:
 
 ## Results
 
-![res.png](assets/res.png)
+<div style="margin-bottom: 0;">
+  <img src="assets/res.png" alt="Training Curves">
+</div>
+
+<div align="center">
+  <small><em>Evaluation returns for each algorithm during training. The solid line is the mean reward across the five seeds and the shaded area is the 95% confidence interval.</em></small>
+</div>
+<br>
 
 We evaluated MAPPO, QMIX, VDN, and QMIX_NS in 4 scenarios using MARBLER. Overall, VDN achieved the best performance across scenarios with QMIX also performing well. The performance of QMIX vs QMIX_NS depended on the heterogeneity of the environment. There were few differences between simulation and real-world performance, highlighting MARBLER's realistic dynamics.
 <br><br>
 
-The videos of the test runs on the Robotarium test-bed can be viewed [here](https://docs.google.com/spreadsheets/d/11ik1Mev0VpYFrSt2TKxVTGL1W3BIvH7rda5MYRXWxxI/edit?usp=sharing).
+<div style="margin-bottom: 0;">
+  <img src="assets/test-res.png" alt="Test Evaluation Metrics">
+</div>
+
+<div align="center">
+  <small><em>The mean returns and standard deviations of each algorithm in each scenario. The simulated results was taken over 100 episodes and the results from real robots was taken across 10 episodes.</em></small>
+</div>
+
+<br>
+
+**The videos of the test runs on the Robotarium test-bed can be viewed [here](https://docs.google.com/spreadsheets/d/11ik1Mev0VpYFrSt2TKxVTGL1W3BIvH7rda5MYRXWxxI/edit?usp=sharing).**
 
 ## [Demo](https://www.youtube.com/embed/[placeholder])
 
