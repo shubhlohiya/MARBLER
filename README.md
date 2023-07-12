@@ -6,7 +6,7 @@
 [Meher S. Nigam](https://github.com/ShashwatNigam99),
 [Harish Ravichandar](https://harishravichandar.com/)
 
-[📄 Paper](assets/paper.pdf) &nbsp;&nbsp;&nbsp; [💻 Code](https://github.com/ShashwatNigam99/MARBLER) &nbsp;&nbsp;&nbsp; [📁 Supplementary Material](assets/supplementary.pdf)
+[📄 Paper](https://arxiv.org/abs/2307.03891) &nbsp;&nbsp;&nbsp; [💻 Code](https://github.com/ShashwatNigam99/MARBLER) &nbsp;&nbsp;&nbsp; [📁 Supplementary Material](assets/supplementary.pdf)
 
 ## About 
 
@@ -45,24 +45,26 @@ We evaluated MAPPO, QMIX, VDN, and QMIX_NS in 4 scenarios using MARBLER. Overall
 </div>
 
 <div align="center">
-  <small><em>The mean returns and standard deviations of each algorithm in each scenario. The simulated results was taken over 100 episodes and the results from real robots was taken across 10 episodes.</em></small>
+  <small><em>The mean returns and standard deviations of each algorithm in each scenario. The simulated results were taken over 100 episodes and the results from real robots were taken across 10 episodes.</em></small>
 </div>
 
 <br>
 
 **The videos of the test runs on the Robotarium test-bed can be viewed [here](https://docs.google.com/spreadsheets/d/11ik1Mev0VpYFrSt2TKxVTGL1W3BIvH7rda5MYRXWxxI/edit?usp=sharing).**
 
-## [Demo](https://www.youtube.com/embed/[placeholder])
+## [Demo](https://www.youtube.com/embed/kkYeUcl-vbY)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/[placeholder]" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kkYeUcl-vbY" frameborder="0" allowfullscreen></iframe>
 
 ## Citation
 ```
-@misc{Torbati2023MARBLER,
-  title={MARBLER: An Open Platform for Standardized Evaluation of Multi-Robot Reinforcement Learning Algorithms},
-  author={Reza J. Torbati and Shubham Lohiya and Shivika Singh and Meher S. Nigam and Harish Ravichandar},
-  journal={arXiv preprint arXiv:2206.XXXXX},
-  year={2023}
+@misc{torbati2023marbler,
+      title={MARBLER: An Open Platform for Standarized Evaluation of Multi-Robot Reinforcement Learning Algorithms}, 
+      author={Reza Torbati and Shubham Lohiya and Shivika Singh and Meher S. Nigam and Harish Ravichandar},
+      year={2023},
+      eprint={2307.03891},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }
 ```
 
