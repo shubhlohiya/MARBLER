@@ -3,7 +3,7 @@
 [Reza J. Torbati](https://github.com/RezaTorbati), 
 [Shubham Lohiya](https://shubhlohiya.github.io/),
 [Shivika Singh](https://github.com/shivika275),
-[Meher S. Nigam](https://github.com/ShashwatNigam99),
+[Meher Shashwat Nigam](https://github.com/ShashwatNigam99),
 [Harish Ravichandar](https://harishravichandar.com/)
 
 [📄 Paper](https://arxiv.org/abs/2307.03891) &nbsp;&nbsp;&nbsp; [💻 Code](https://github.com/ShashwatNigam99/MARBLER) &nbsp;&nbsp;&nbsp; [📁 Supplementary Material](assets/supplementary.pdf)
@@ -60,7 +60,7 @@ We evaluated MAPPO, QMIX, VDN, and QMIX_NS in 4 scenarios using MARBLER. Overall
 ```
 @misc{torbati2023marbler,
       title={MARBLER: An Open Platform for Standarized Evaluation of Multi-Robot Reinforcement Learning Algorithms}, 
-      author={Reza Torbati and Shubham Lohiya and Shivika Singh and Meher S. Nigam and Harish Ravichandar},
+      author={Reza Torbati and Shubham Lohiya and Shivika Singh and Meher Shashwat Nigam and Harish Ravichandar},
       year={2023},
       eprint={2307.03891},
       archivePrefix={arXiv},
