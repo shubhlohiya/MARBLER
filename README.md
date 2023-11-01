@@ -1,4 +1,4 @@
-<!-- # MARBLER: An Open Platform for Standarized Evaluation of Multi-Robot Reinforcement Learning Algorithms  -->
+<!-- # MARBLER: An Open Platform for Standardized Evaluation of Multi-Robot Reinforcement Learning Algorithms  -->
 
 [Reza J. Torbati](https://github.com/RezaTorbati), 
 [Shubham Lohiya](https://shubhlohiya.github.io/),
