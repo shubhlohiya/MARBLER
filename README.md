@@ -59,7 +59,7 @@ We evaluated MAPPO, QMIX, VDN, and QMIX_NS in 4 scenarios using MARBLER. Overall
 ## Citation
 ```
 @misc{torbati2023marbler,
-      title={MARBLER: An Open Platform for Standarized Evaluation of Multi-Robot Reinforcement Learning Algorithms}, 
+      title={MARBLER: An Open Platform for Standardized Evaluation of Multi-Robot Reinforcement Learning Algorithms}, 
       author={Reza Torbati and Shubham Lohiya and Shivika Singh and Meher Shashwat Nigam and Harish Ravichandar},
       year={2023},
       eprint={2307.03891},
